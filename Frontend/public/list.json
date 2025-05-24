@@ -1,0 +1,212 @@
+[
+  {
+    "name": "J.K. Rowling",
+    "price": 299,
+    "category": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg",
+    "title": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "name": "George Orwell",
+    "price": 199,
+    "category": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "title": "1984"
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "price": 349,
+    "category": "Fantasy",
+    "image": "https://covers.openlibrary.org/b/id/8108691-L.jpg",
+    "title": "The Hobbit"
+  },
+  {
+    "name": "F. Scott Fitzgerald",
+    "price": 189,
+    "category": "Classic",
+    "image": "https://covers.openlibrary.org/b/id/7352166-L.jpg",
+    "title": "The Great Gatsby"
+  },
+  {
+    "name": "Harper Lee",
+    "price": 249,
+    "category": "Classic",
+    "image": "https://covers.openlibrary.org/b/id/8225631-L.jpg",
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "name": "Jane Austen",
+    "price": 199,
+    "category": "Classic",
+    "image": "https://covers.openlibrary.org/b/id/8231992-L.jpg",
+    "title": "Pride and Prejudice"
+  },
+  {
+    "name": "Bram Stoker",
+    "price": 179,
+    "category": "Horror",
+    "image": "https://covers.openlibrary.org/b/id/8084980-L.jpg",
+    "title": "Dracula"
+  },
+  {
+    "name": "Mark Manson",
+    "price": 299,
+    "category": "Self-Help",
+    "image": "https://covers.openlibrary.org/b/id/9356051-L.jpg",
+    "title": "The Subtle Art of Not Giving a F*ck"
+  },
+  {
+    "name": "Paulo Coelho",
+    "price": 249,
+    "category": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8377616-L.jpg",
+    "title": "The Alchemist"
+  },
+  {
+    "name": "Dale Carnegie",
+    "price": 269,
+    "category": "Self-Help",
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+    "title": "How to Win Friends and Influence People"
+  },
+  {
+    "name": "Eloquent JavaScript",
+    "price": 0,
+    "category": "Free",
+    "image": "https://eloquentjavascript.net/img/cover.jpg",
+    "title": "Eloquent JavaScript"
+  },
+  {
+    "name": "Automate the Boring Stuff",
+    "price": 0,
+    "category": "Free",
+    "image": "https://automatetheboringstuff.com/images/cover.png",
+    "title": "Automate the Boring Stuff with Python"
+  },
+  {
+    "name": "Kyle Simpson",
+    "price": 0,
+    "category": "Free",
+    "image": "https://github.com/getify/You-Dont-Know-JS/raw/2nd-ed/get-started/images/cover.png",
+    "title": "You Don't Know JS Yet"
+  },
+  {
+    "name": "Charles Petzold",
+    "price": 399,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/b/id/8099797-L.jpg",
+    "title": "Code: The Hidden Language of Computer Hardware and Software"
+  },
+  {
+    "name": "Eric Matthes",
+    "price": 399,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/b/id/9361413-L.jpg",
+    "title": "Python Crash Course"
+  },
+  {
+    "name": "Robert C. Martin",
+    "price": 449,
+    "category": "Programming",
+    "image": "https://covers.openlibrary.org/b/id/9296295-L.jpg",
+    "title": "Clean Code"
+  },
+  {
+    "name": "Andy Weir",
+    "price": 269,
+    "category": "Sci-Fi",
+    "image": "https://covers.openlibrary.org/b/id/8231872-L.jpg",
+    "title": "The Martian"
+  },
+  {
+    "name": "Jon Duckett",
+    "price": 379,
+    "category": "Web Development",
+    "image": "https://covers.openlibrary.org/b/id/8446787-L.jpg",
+    "title": "HTML and CSS: Design and Build Websites"
+  },
+  {
+    "name": "Charles Dickens",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/7222249-L.jpg",
+    "title": "A Tale of Two Cities"
+  },
+  {
+    "name": "Lewis Carroll",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/7984911-L.jpg",
+    "title": "Alice's Adventures in Wonderland"
+  },
+  {
+    "name": "Sun Tzu",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/8486141-L.jpg",
+    "title": "The Art of War"
+  },
+  {
+    "name": "Napoleon Hill",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/8376034-L.jpg",
+    "title": "Think and Grow Rich"
+  },
+  {
+    "name": "Walter Isaacson",
+    "price": 499,
+    "category": "Biography",
+    "image": "https://covers.openlibrary.org/b/id/7652166-L.jpg",
+    "title": "Steve Jobs"
+  },
+  {
+    "name": "Michelle Obama",
+    "price": 499,
+    "category": "Biography",
+    "image": "https://covers.openlibrary.org/b/id/9256046-L.jpg",
+    "title": "Becoming"
+  },
+  {
+    "name": "Yuval Noah Harari",
+    "price": 459,
+    "category": "History",
+    "image": "https://covers.openlibrary.org/b/id/8362414-L.jpg",
+    "title": "Sapiens: A Brief History of Humankind"
+  },
+  {
+    "name": "Dan Brown",
+    "price": 299,
+    "category": "Thriller",
+    "image": "https://covers.openlibrary.org/b/id/7222289-L.jpg",
+    "title": "The Da Vinci Code"
+  },
+  {
+    "name": "Stephen Hawking",
+    "price": 349,
+    "category": "Science",
+    "image": "https://covers.openlibrary.org/b/id/7284016-L.jpg",
+    "title": "A Brief History of Time"
+  },
+  {
+    "name": "Suzanne Collins",
+    "price": 279,
+    "category": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/6782993-L.jpg",
+    "title": "The Hunger Games"
+  },
+  {
+    "name": "Mary Shelley",
+    "price": 189,
+    "category": "Horror",
+    "image": "https://covers.openlibrary.org/b/id/8165457-L.jpg",
+    "title": "Frankenstein"
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "price": 329,
+    "category": "Fiction",
+    "image": "https://covers.openlibrary.org/b/id/8083322-L.jpg",
+    "title": "One Hundred Years of Solitude"
+  }
+]
